@@ -50,7 +50,7 @@
             "template": "使用【】号印章盒",
             "type": "range",
             "min": 1,
-            "max": 17
+            "max": 18
           },
           {
             "id": "s2",
@@ -81,7 +81,7 @@
             "id": "n3",
             "template": "使用【】便签",
             "type": "list",
-            "options": "古川纸工,表现社,4legs,一笔笺,小方,papier,便签卷,M5,A6p,bloomtree,yohaku"
+            "options": "古川纸工,表现社,4legs,一笔笺,小方,papier,便签卷,M5,A6p,bloomtree,yohaku,LIFE,FRUIT,NATURE,长条"
           },
           {
             "id": "n4",
