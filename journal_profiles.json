@@ -120,7 +120,7 @@
             "template": "使用第【】个分装版",
             "type": "range",
             "min": 1,
-            "max": 15
+            "max": 18
           }
         ]
       },
@@ -145,13 +145,13 @@
             "template": "使用【】号印章盒",
             "type": "range",
             "min": 1,
-            "max": 3
+            "max": 4
           },
           {
             "id": "s2",
             "template": "使用【】印章",
             "type": "list",
-            "options": "松川,makkey,数字,7uly,熊猫,tai,文字"
+            "options": "松川,makkey,数字,7uly,熊猫,tai,文字,熊猫日志,秋意,心情随记"
           }
         ]
       },
