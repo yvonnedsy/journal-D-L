@@ -50,13 +50,13 @@
             "template": "使用【】号印章盒",
             "type": "range",
             "min": 1,
-            "max": 18
+            "max": 20
           },
           {
             "id": "s2",
             "template": "使用【】印章",
             "type": "list",
-            "options": "松川,makkey,大宇人,som,青空亭,熊猫,tai,文字,熊猫日志,秋意,数字"
+            "options": "松川,makkey,大宇人,som,青空亭,熊猫,tai,文字,熊猫日志,秋意,数字,hitsuji"
           }
         ]
       },
