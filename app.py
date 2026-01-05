@@ -58,7 +58,7 @@ def get_initial_data():
             "id": "r1",
             "template": "使用【】离型本",
             "type": "list",
-            "options": "橙色,粉色,白色,小黄,小绿,小红"
+            "options": "橙色,粉色,白色,小黄,小绿,小红，1，2,3"
           }
         ]
       },
@@ -71,13 +71,13 @@ def get_initial_data():
             "template": "使用【】号印章盒",
             "type": "range",
             "min": 1,
-            "max": 16
+            "max": 20
           },
           {
             "id": "s2",
             "template": "使用【】印章",
             "type": "list",
-            "options": "松川,makkey,大宇人,som,青空亭,熊猫,tai,文字"
+            "options": "松川,makkey,大宇人,som,青空亭,熊猫,tai,文字,熊猫日志,秋意,数字,hitsuji"
           }
         ]
       },
@@ -102,13 +102,12 @@ def get_initial_data():
             "id": "n3",
             "template": "使用【】便签",
             "type": "list",
-            "options": "古川纸工,表现社,4legs,一笔笺,小方,papier,便签卷"
+            "options": "古川纸工,表现社,4legs,一笔笺,小方,papier,便签卷,M5,A6p,bloomtree,yohaku,LIFE,FRUIT,NATURE,长条"
           },
           {
-            "id": "1764167983.683707",
+            "id": "n4",
             "template": "使用第【】张一笔笺",
             "type": "range",
-            "options": "A,B",
             "min": 1,
             "max": 50
           }
@@ -142,7 +141,7 @@ def get_initial_data():
             "template": "使用第【】个分装版",
             "type": "range",
             "min": 1,
-            "max": 90
+            "max": 18
           }
         ]
       },
@@ -154,7 +153,7 @@ def get_initial_data():
             "id": "r1",
             "template": "使用【】离型本",
             "type": "list",
-            "options": "橙色,粉色,白色,小黄,小绿,小红"
+            "options": "绿色,标准,护照"
           }
         ]
       },
@@ -167,13 +166,13 @@ def get_initial_data():
             "template": "使用【】号印章盒",
             "type": "range",
             "min": 1,
-            "max": 16
+            "max": 4
           },
           {
             "id": "s2",
             "template": "使用【】印章",
             "type": "list",
-            "options": "松川,makkey,大宇人,som,青空亭,熊猫,tai,文字"
+            "options": "松川,makkey,数字,7uly,熊猫,tai,文字,熊猫日志,秋意,心情随记"
           }
         ]
       },
@@ -198,7 +197,7 @@ def get_initial_data():
             "id": "n3",
             "template": "使用【】便签",
             "type": "list",
-            "options": "古川纸工,表现社,4legs,一笔笺,小方,papier,便签卷"
+            "options": "表现社,一笔笺,小方,便签卷"
           }
         ]
       }
